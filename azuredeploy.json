@@ -17,7 +17,9 @@
         "Central US",
         "South Central US",
         "North Central US"
-      ]
+      ],
+      "defaultValue": "Central US"
+
     },
     "sku": {
       "type": "string",
@@ -28,7 +30,7 @@
         "Standard",
         "Premium"
       ],
-      "defaultValue": "Free"
+      "defaultValue": "Basic"
     },
     "workerSize": {
       "type": "string",
@@ -41,7 +43,7 @@
     },
     "repoUrl": {
       "type": "string",
-      "defaultValue": "https://github.com/dcoreyrasm/dctestazuredeploy.git"
+      "defaultValue": "https://github.com/dcoreyrasm/nodejs-docs-hello-world.git"
     },
     "branch": {
       "type": "string",
