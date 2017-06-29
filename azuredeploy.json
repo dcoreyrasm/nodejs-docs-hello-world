@@ -23,11 +23,7 @@
     "sku": {
       "type": "string",
       "allowedValues": [
-        "Free",
-        "Shared",
-        "Basic",
-        "Standard",
-        "Premium"
+        "Basic"
       ],
       "defaultValue": "Basic"
     },
