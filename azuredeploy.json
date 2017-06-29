@@ -43,7 +43,8 @@
     "branch": {
       "type": "string",
       "defaultValue": "master"
-    },
+    }
+  },
   "resources": [
     {
       "apiVersion": "2014-06-01",
