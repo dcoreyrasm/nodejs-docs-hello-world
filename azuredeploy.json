@@ -19,7 +19,6 @@
         "North Central US"
       ]
     },
-    },
     "sku": {
       "type": "string",
       "allowedValues": [
