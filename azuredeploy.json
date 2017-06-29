@@ -28,7 +28,7 @@
         "Standard",
         "Premium"
       ],
-      "defaultValue": "Basic"
+      "defaultValue": "Free"
     },
     "workerSize": {
       "type": "string",
