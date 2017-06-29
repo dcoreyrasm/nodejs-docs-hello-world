@@ -18,7 +18,6 @@
         "South Central US",
         "North Central US"
       ]
-
     },
     "sku": {
       "type": "string",
